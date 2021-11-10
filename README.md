@@ -4,4 +4,3 @@
 - 💞️ It would be great to collaborate with organizations looking for a trainee or a junior developer
 - 📫 How to reach me: jenni.esprit@gmail.com
 
-[LinkedIn](https://www.linkedin.com/in/jenni-nylund/)
